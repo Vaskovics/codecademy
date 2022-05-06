@@ -1,0 +1,75 @@
+body {
+    position: relative;
+    
+}
+
+h3 {
+    font-family: sans-serif;
+    
+}
+
+h4 {
+    text-decoration: underline;
+}
+
+h1 {
+    margin-left: 10%;
+
+}
+
+.container {
+    display: block;
+    border: 1px solid black;
+
+    margin: 5px auto;
+    width: 80%;
+    padding: 5px;
+    position: relative;
+}
+
+.color {
+    display: inline-block;
+    width: 30%;
+    margin: 5px 10px;
+    text-align: center;
+}
+
+#one {
+    background-color: #00FFDD;
+}
+
+#two {
+    background-color: #019267;
+}
+
+#three {
+    background-color: #F76E11;
+}
+
+#four {
+    background-color: #FFA1C9;
+}
+
+#five {
+    background-color: #11468F;
+    color: white;
+}
+
+#six {
+    background-color: #FFD93D;
+}
+.field1 {
+    
+    display: inline-block;
+    width: 45%;
+    margin: 1%;
+    
+}   
+
+.field2 {
+  
+    display: inline-block;
+    width: 45%;
+    
+}
+

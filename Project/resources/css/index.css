@@ -1,0 +1,21 @@
+h1 {
+    background-image: url('../images/pattern.webp');
+    color: #F6D860;
+    text-align: center;
+    margin: 50px 5px;
+    height: 50px;
+    font-size: 50px;
+    background-size: cover;
+    
+
+}
+
+#first {
+    background-color: #06FF00;
+    color: white;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}

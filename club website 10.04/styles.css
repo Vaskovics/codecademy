@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0%;
+}
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around
+    
+}
+
+.upper {
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 100%;
+    background-color: #0F00FF;
+    justify-content: center;
+}
+
+nav li {
+    display: inline;
+    
+}
+
+.upper a {
+    color:aliceblue;
+    text-decoration: none;
+    padding: 0 10px;
+}
+
+.bottom a {
+    color: darkblue;
+    text-decoration: none;
+    padding: 0 10px;
+    
+}
+
+.right a{
+    color: darkblue;
+    text-decoration: none;
+    padding: 0 10px;
+}
+
+.bottom {
+    justify-content: center;
+    width: 45%;
+}
+
+.right {
+    position: fixed;
+    right: 39px;
+    top: 50px
+
+}
+
+nav img {
+    width: 65px;
+    left: 5%;
+    float: left;
+}
+
+.bottom ul {
+    margin-top: 35px;
+}
